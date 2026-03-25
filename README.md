@@ -41,8 +41,8 @@ Unlike traditional versions, this game starts using **keyboard input instead of 
 ()
 
 ---
-## 📸 Demo
-()
+## 📸 Demo Video:
+(https://github.com/user-attachments/assets/458a519c-610e-471c-8b8b-b4edfc889312)
 
 ---
 ## ✨ Future Improvements Planning to do afterwards:

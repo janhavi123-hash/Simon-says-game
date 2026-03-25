@@ -36,3 +36,19 @@ Unlike traditional versions, this game starts using **keyboard input instead of 
 5. If you make a mistake, the game ends  
 6. Game over and your **high score**! is shown to resztart game again press any key from keyboard.
 ---
+
+## 🔗 Live Demo
+()
+
+---
+## 📸 Demo
+()
+
+---
+## ✨ Future Improvements Planning to do afterwards:
+- Add Start/Restart button
+- Add sound effects 🔊
+- Add difficulty levels
+- Improve UI animations
+
+---

@@ -24,7 +24,7 @@ This project focuses on core frontend concepts like event handling, DOM manipula
 3. Repeat the same sequence by clicking the buttons  
 4. With each level, a new step is added  
 5. If you make a mistake, the game ends  
-6. Game over and your **high score**! is shown to resztart game again press any key from keyboard.
+6. Game over and your **high score** is shown to restart game again press any key from keyboard.
 ---
 ## 🔗 Live Demo
 ( https://janhavi123-hash.github.io/Simon-says-game/)

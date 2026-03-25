@@ -1,6 +1,6 @@
 # 🎮 Simon Says Game
 A simple and interactive **Simon Says memory game** built using JavaScript.  
-This project focuses on core frontend concepts like event handling, DOM manipulation,Keyboard Events, and game logic.\
+This project focuses on core frontend concepts like event handling, DOM manipulation,Keyboard Events, and game logic.
 
 ---
 ## 🚀 Features

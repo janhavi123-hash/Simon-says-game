@@ -1,12 +1,6 @@
 # 🎮 Simon Says Game
 A simple and interactive **Simon Says memory game** built using JavaScript.  
-This project focuses on core frontend concepts like event handling, DOM manipulation,Keyboard Events, and game logic.
-
----
-## 📌 Description
-This is a basic version of the classic Simon Says game where the player must remember and repeat a sequence of colors.  
-The sequence becomes longer with each level, making the game more challenging.
-Unlike traditional versions, this game starts using **keyboard input instead of a play button**, making it more interactive and event-driven.
+This project focuses on core frontend concepts like event handling, DOM manipulation,Keyboard Events, and game logic.\
 
 ---
 ## 🚀 Features
